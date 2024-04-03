@@ -1,0 +1,8 @@
+Delay := 0
+Holdtime := 32111
+Repeat := 0
+ColorRatio := 80
+RadiusX := 16
+TRadiusY := 24
+BRadiusY := 4
+OffsetX := 2
