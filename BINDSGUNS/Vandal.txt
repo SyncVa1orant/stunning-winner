@@ -1,8 +1,0 @@
-Delay := 1
-Holdtime := 1
-Repeat := 1
-ColorRatio := 3
-RadiusX := 321
-TRadiusY := 12
-BRadiusY := 12
-OffsetX := 2
