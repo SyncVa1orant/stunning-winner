@@ -1,0 +1,9 @@
+TriggerColor := 0xFF57FF
+Delay := 0
+Holdtime := 32
+Repeat := 32
+ColorRatio := 99999
+RadiusX := 14
+TRadiusY := 4
+BRadiusY := 4
+OffsetX := 2
