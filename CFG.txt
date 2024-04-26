@@ -1,4 +1,4 @@
-Delay := 0
+FirstClickDelay := 100
 Holdtime := 32
 Repeat := 21
 TriggerKey := 
@@ -7,3 +7,5 @@ RadiusX := 16
 TRadiusY := 24
 BRadiusY := 4
 OffsetX := 2
+ClickSpeed := 5
+ClickCount := 2
