@@ -9,3 +9,4 @@ BRadiusY := 4
 OffsetX := 2
 ClickSpeed := 5
 ClickCount := 2
+PixelResolver := 0
